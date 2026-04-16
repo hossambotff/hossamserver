@@ -1,5 +1,7 @@
 {
     "url": "https://raw.githubusercontent.com/hossambotff/hossamserver/main/lib.zip",
-    "version": "2.0.10",
+    "version": "1.0.0",
+    "ff_version": "xOB",
+    "server_status": "Connected",
     "bg_image": "https://raw.githubusercontent.com/hossambotff/hossamserver/main/bg_image.jpg"
 }
