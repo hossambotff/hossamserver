@@ -5,7 +5,7 @@
     "app_version": "2.0.0",
     "server_status": "Connected",
     "bg_image": "https://raw.githubusercontent.com/hossambotff/hossamserver/main/bg_image.jpg",
-    "mandatory_transfer": false,
+    "mandatory_transfer": true,
     "mandatory_transfer_url": "https://example.com/redirect",
     "show_message": false,
     "message_text": "This is an important message from the server.",
